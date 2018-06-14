@@ -1,0 +1,12 @@
+A=[1,2,3]
+print(A)
+B=[6,4,5]
+print(B)
+print(A.sort())
+print(A)
+print(B.sort())
+print(B)
+C(A,B)
+print(C)
+C=A+B
+print(C)

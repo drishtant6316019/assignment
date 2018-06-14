@@ -1,0 +1,1 @@
+print(list.count(1))
